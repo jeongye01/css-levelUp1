@@ -1,0 +1,22 @@
+{
+  "name": "css-levelup1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeongye01/css-levelUp1.git"
+  },
+  "author": "yewon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeongye01/css-levelUp1/issues"
+  },
+  "homepage": "https://github.com/jeongye01/css-levelUp1#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
